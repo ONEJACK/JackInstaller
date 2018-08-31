@@ -254,7 +254,7 @@ echo -e $b "101. Install Mr.Rv.2${enda}";
 echo -e "============================" | lolcat
 echo -e $b "102. Install semut${enda}";
 echo -e "============================" | lolcat
-echo -e $b "103. Install mrplug1n-nolife${enda}"; | lolcat
+echo -e $b "103. Install nolife${enda}"; | lolcat
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "╭─Alwys ID[PILIH NOMORNYA]" | lolcat
@@ -1070,7 +1070,7 @@ echo -e "${y} Done Kentod..."
 
 ;;
 
-#Install mrplug1n-nolife
+#Install nolife
 
 103) git clone https://github.com/mrplug1n/nolife
 echo -e "${y} cd nolife"
